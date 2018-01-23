@@ -1,2 +1,3 @@
 # testowe
-To jest repozytorium testowe
+To jest repozytorium testowe.
+Nie ma tu nic ciekawego.
